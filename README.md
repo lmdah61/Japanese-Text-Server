@@ -103,8 +103,4 @@ The API returns appropriate HTTP status codes and error messages for different e
 - 429: Too Many Requests (rate limit exceeded)
 - 500: Internal Server Error
 
-## License
-
-MIT
-
 <sub>**Leave a Tip:** opulentmenu06@walletofsatoshi.com</sub>
